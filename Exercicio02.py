@@ -1,7 +1,7 @@
 from sympy import Derivative, Integral, cos, Symbol
 from math import pi
 
-matricula = 1715
+matricula = 1551
 c = matricula % 10
 frequencia = 5
 amplitude = 0.05
